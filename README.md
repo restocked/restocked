@@ -2,7 +2,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/omdibot)
+[<img align="left" alt="restocked | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/1267px-Twitter_bird_logo_2012.svg.png" />](https://twitter.com/omdibot)
 
 <br />
 
